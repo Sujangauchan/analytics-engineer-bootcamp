@@ -18,6 +18,6 @@ Included decisions on schema design and data structure.
 
 This repository shows the full workflow:
 
-Raw data ingestion and staging
-Data transformation with dbt
-Final models for reporting and analysis
+- Raw data ingestion and staging
+- Data transformation with dbt
+- Final models for reporting and analysis
