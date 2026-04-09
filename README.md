@@ -1,4 +1,4 @@
-# Analytics Engineer Bootcamp
+# Analytics Engineering
 
 Built a data warehouse using dbt and BigQuery.
 Modeled data using fact and dimension tables.
